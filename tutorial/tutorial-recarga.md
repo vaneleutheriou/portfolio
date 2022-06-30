@@ -10,13 +10,13 @@
 
 <br>
 
-4. Informe o número do celular que deseja carregar, incluindo o DDD.
+4. Informe o número do celular que deseja carregar, incluindo o DDD. Depois, clique na seta para avançar.
 
 ![Tela do app para informação do número de celular.](images/recarga-celular-2.png)
 
 <br>
 
-5. Selecione a operadora do celular.
+5. Selecione a operadora do celular e clique na seta para avançar.
 
 ![Tela do app para seleção da operadora.](images/recarga-celular-3.png)
 
