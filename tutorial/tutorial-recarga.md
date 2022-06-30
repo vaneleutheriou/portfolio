@@ -12,10 +12,10 @@
 
 ![Tela do app para informação do número de celular.](images/recarga-celular-2.png)
 
-5. Selecione qual é a operadora do celular.
+5. Selecione a operadora do celular.
 
 ![Tela do app para seleção da operadora.](images/recarga-celular-3.png)
 
-6. A tela seguinte exibe as informações da recarga, para confirmação. Se estiverem corretas, clique em **Confirmar pagamento**.
+6. Confira as informações da recarga. Se estiverem corretas, clique em **Confirmar pagamento**.
 
 ![Tela do app de confirmação dos dados da recarga.](images/recarga-celular-4.png)
