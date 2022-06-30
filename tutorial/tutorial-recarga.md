@@ -8,13 +8,19 @@
 
 ![Tela do app com a opção Recarga de celular em destaque.](images/recarga-celular-1.png)
 
+<br>
+
 4. Informe o número do celular que deseja carregar, incluindo o DDD.
 
 ![Tela do app para informação do número de celular.](images/recarga-celular-2.png)
 
+<br>
+
 5. Selecione a operadora do celular.
 
 ![Tela do app para seleção da operadora.](images/recarga-celular-3.png)
+
+<br>
 
 6. Confira as informações da recarga. Se estiverem corretas, clique em **Confirmar pagamento**.
 
