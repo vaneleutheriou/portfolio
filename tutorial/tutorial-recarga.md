@@ -8,9 +8,6 @@
 
 <br>
 
-![recarga-celular-4](https://user-images.githubusercontent.com/88788874/176802824-eba10b3a-c185-42a6-a99c-d72e5ba669db.png)
-
-
 3. Informe o número do celular que deseja carregar, incluindo o DDD. Depois, clique na seta para avançar.
 
 ![Tela do app para informação do número de celular.](images/recarga-celular-2.png)
